@@ -1,2 +1,2 @@
 # html.portfolio
-this is my portfolio project as a newbie in Coding. plz ignore the mess
+this is my first portfolio project as a newbie in Coding. plz ignore the mess
